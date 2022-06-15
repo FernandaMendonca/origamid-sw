@@ -1,0 +1,17 @@
+.loginImg {
+  background: url("../../assets/login.jpg") no-repeat center center;
+  background-size: cover;
+  border-top-left-radius: 1.5rem;
+  border-bottom-left-radius: 1.5rem;
+  width: 100%;
+  height: 75vh;
+}
+
+.forgotImg {
+  background: url("../../assets/forgot.jpg") no-repeat center center;
+  background-size: cover;
+  border-top-left-radius: 1.5rem;
+  border-bottom-left-radius: 1.5rem;
+  width: 100%;
+  height: 75vh;
+}
